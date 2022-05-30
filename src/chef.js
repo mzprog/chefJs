@@ -18,6 +18,7 @@ export default class ChefJs{
     h6 = (id= null) =>  this.createHTMLElement('h6', id)
     header = (id= null) =>  this.createHTMLElement('header', id)
     i = (id= null) =>  this.createHTMLElement('i', id)
+    img = (id= null) =>  this.createHTMLElement('img', id)
     iframe = (id= null) =>  this.createHTMLElement('iframe', id)
     input = (id= null) =>  this.createHTMLElement('input', id)
     label = (id= null) =>  this.createHTMLElement('label', id)
